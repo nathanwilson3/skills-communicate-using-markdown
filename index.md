@@ -8,6 +8,13 @@
 
 ![Jeep Wrangler on an offroad trail](https://github.com/user-attachments/assets/21862ec1-9cf8-4c1f-86ff-fb23d8e8acdd)
 
+```python
+# This is a simple Python code block
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("World"))
+
 
 
 
